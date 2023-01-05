@@ -1,5 +1,5 @@
-# Read Me for fltranslator
-fltranslator is a foreign language translator that utilizes a speech to text API to identify a spoken language and translate it into a different desired language
+# Read Me for tellovisualdetection
+tellovisualdetection is used to control the movements of a Tello drone on to a target by utilizing Python's OpenCV2 library.
 ## Status
 ### [Unreleased]
 ## Creator: A.Evans
