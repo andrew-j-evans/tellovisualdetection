@@ -16,9 +16,14 @@ fltranslator is a foreign language translator that utilizes a speech to text API
 pip install djitellopy
 ```
 
-For Linux distributions with both python2 and python3 (e.g. Debian, Ubuntu, ...) you need to run
+For Linux distributions with both python2 and python3:
 ```
 pip3 install djitellopy
+```
+- And install the OpenCV2 library with
+```
+pip install opencv-python
+pip3 install opencv-python
 ```
 - Ensure your tello drone is connected by wifi connection.
 - Run the file by typing "python3 tellovisualdetection.py" into the terminal
