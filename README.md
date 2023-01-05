@@ -10,7 +10,7 @@ fltranslator is a foreign language translator that utilizes a speech to text API
 ## How to Use
 - Download the [tellovisualdetection.zip](github.com/link "tellovisualdetection.zip") folder and extract its contents to your computer
 - Open the tellovisualdetection folder and open the file called tellovisualdetection.py
-- Ensure your tello drone is connected by 
+- Ensure your tello drone is connected by wifi connection.
 - Run the file by typing "python3 tellovisualdetection.py" into the terminal
 
 ### Bugs and updates
